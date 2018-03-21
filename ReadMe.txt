@@ -1,6 +1,6 @@
 CustomRadioButtonsDesign
 
-Cutom Horizontal Redio Buttons Group Design. 
+Cutom Horizontal Redio Buttons Group Design.
 
 All References:
 https://stackoverflow.com/questions/19163628/adding-custom-radio-buttons-in-android
